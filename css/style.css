@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Mr Dodo";
+  src: local("Mr Dodo Rounded Regular"), local("Mr-Dodo-Rounded-Regular"),
+    url("../fonts/MrDodoRounded-Regular.woff2") format("woff2"),
+    url("../fonts/MrDodoRounded-Regular.woff") format("woff"),
+    url("../fonts/MrDodoRounded-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Mr DodoM";
+  src: url("../fonts/MRDODOROUNDED-MEDIUM.TTF") format("truetype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Mr DodoR";
+  src: url("../fonts/MRDODO-REGULAR.TTF") format("truetype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Quaker";
+  src: url("../Quaker\ Shaker.ttf") format("truetype");
+  font-style: normal;
+}
